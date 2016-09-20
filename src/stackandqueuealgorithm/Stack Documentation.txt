@@ -1,0 +1,9 @@
+Stack :
+
+A stack as a linear list in which items are aded at one end and deleted from the same
+ end . 
+this idea is illustrated by a stack of plates placed on a table , one on top of the other. whe a plate is needed it 
+is taken fromm the top of the stack.
+when a plate washed it is added to the top of the stack. note that if a plate is now 
+needed , this newest plate is the one that is taken . a stack exhibits the last 
+in first out property.
